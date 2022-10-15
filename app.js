@@ -17,3 +17,10 @@ if(cmd[2] == 'add') {
 
     add(note, oldNote)
 }
+
+if(cmd[2] == 'read') {
+
+    const present = require('./present')
+    
+    present(read())
+}
