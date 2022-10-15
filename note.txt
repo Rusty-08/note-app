@@ -1,1 +1,1 @@
-[{"id":"01","name":"rusty","gender":"male"},{"id":"02","name":"josiah","gender":"male"},{"id":"03","name":"ivan","gender":"male"},{"id":"04","name":"josiah","gender":"male"}]
+[{"id":"01","name":"rusty","gender":"male"},{"id":"02","name":"josiah","gender":"male"},{"id":"03","name":"ivan","gender":"male"}]
